@@ -55,5 +55,10 @@ Este repositorio está pensado como material de aprendizaje progresivo.
 Siéntete libre de:  
 - Añadir tus propias notas o ejemplos.  
 - Mejorar los proyectos.  
-- Compartirlo con otros estudiantes.  
+- Compartirlo con otros estudiantes.
+
+---
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillbermendez/)
+Autor: Guillber Mendez
+
 
