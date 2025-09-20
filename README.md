@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/guillmh/learnNodeExpress/images/port.png" alt="Aprendiendo Node.js con Express" width="600"/>
+</p>
+
 # 📚 Aprendiendo Node.js con Express  
 
 Bienvenido a este repositorio donde aprenderás **Node.js** y **Express** paso a paso mediante conceptos clave, ejercicios progresivos y pequeños proyectos.  
