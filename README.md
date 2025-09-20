@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/guillmh/learnNodeExpress/tree/main/images" alt="Aprendiendo Node.js con Express" width="600"/>
+  <img src="https://github.com/guillmh/learnNodeExpress/blob/main/images/port.png" alt="Aprendiendo Node.js con Express" width="600"/>
 </p>
 
 # 📚 Aprendiendo Node.js con Express  
